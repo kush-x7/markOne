@@ -1,7 +1,5 @@
 # Do you know me?
 
----
-
 Play this game with your friends and check whether they know about you or not.
 
 ---
